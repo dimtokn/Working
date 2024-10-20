@@ -1,0 +1,10 @@
+C:\Users\Dima\source\repos\Matching Game\Matching Game\bin\Debug\Matching Game.exe.config
+C:\Users\Dima\source\repos\Matching Game\Matching Game\bin\Debug\Matching Game.exe
+C:\Users\Dima\source\repos\Matching Game\Matching Game\bin\Debug\Matching Game.pdb
+C:\Users\Dima\source\repos\Matching Game\Matching Game\obj\Debug\Matching Game.csproj.AssemblyReference.cache
+C:\Users\Dima\source\repos\Matching Game\Matching Game\obj\Debug\Matching_Game.Form1.resources
+C:\Users\Dima\source\repos\Matching Game\Matching Game\obj\Debug\Matching_Game.Properties.Resources.resources
+C:\Users\Dima\source\repos\Matching Game\Matching Game\obj\Debug\Matching Game.csproj.GenerateResource.cache
+C:\Users\Dima\source\repos\Matching Game\Matching Game\obj\Debug\Matching Game.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\Matching Game\Matching Game\obj\Debug\Matching Game.exe
+C:\Users\Dima\source\repos\Matching Game\Matching Game\obj\Debug\Matching Game.pdb

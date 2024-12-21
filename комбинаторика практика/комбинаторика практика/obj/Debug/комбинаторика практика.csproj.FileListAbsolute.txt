@@ -1,0 +1,10 @@
+C:\Users\Dima\source\repos\комбинаторика практика\комбинаторика практика\obj\Debug\комбинаторика практика.csproj.AssemblyReference.cache
+C:\Users\Dima\source\repos\комбинаторика практика\комбинаторика практика\obj\Debug\CombinatoricsCalculator.MainForm.resources
+C:\Users\Dima\source\repos\комбинаторика практика\комбинаторика практика\obj\Debug\комбинаторика_практика.Properties.Resources.resources
+C:\Users\Dima\source\repos\комбинаторика практика\комбинаторика практика\obj\Debug\комбинаторика практика.csproj.GenerateResource.cache
+C:\Users\Dima\source\repos\комбинаторика практика\комбинаторика практика\obj\Debug\комбинаторика практика.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\комбинаторика практика\комбинаторика практика\bin\Debug\комбинаторика практика.exe.config
+C:\Users\Dima\source\repos\комбинаторика практика\комбинаторика практика\bin\Debug\комбинаторика практика.exe
+C:\Users\Dima\source\repos\комбинаторика практика\комбинаторика практика\bin\Debug\комбинаторика практика.pdb
+C:\Users\Dima\source\repos\комбинаторика практика\комбинаторика практика\obj\Debug\комбинаторика практика.exe
+C:\Users\Dima\source\repos\комбинаторика практика\комбинаторика практика\obj\Debug\комбинаторика практика.pdb

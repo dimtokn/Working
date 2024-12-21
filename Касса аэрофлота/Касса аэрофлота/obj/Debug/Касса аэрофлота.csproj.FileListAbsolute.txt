@@ -1,0 +1,10 @@
+C:\Users\Dima\source\repos\Касса аэрофлота\Касса аэрофлота\bin\Debug\Касса аэрофлота.exe.config
+C:\Users\Dima\source\repos\Касса аэрофлота\Касса аэрофлота\bin\Debug\Касса аэрофлота.exe
+C:\Users\Dima\source\repos\Касса аэрофлота\Касса аэрофлота\bin\Debug\Касса аэрофлота.pdb
+C:\Users\Dima\source\repos\Касса аэрофлота\Касса аэрофлота\obj\Debug\Касса аэрофлота.csproj.AssemblyReference.cache
+C:\Users\Dima\source\repos\Касса аэрофлота\Касса аэрофлота\obj\Debug\Касса_аэрофлота.Form1.resources
+C:\Users\Dima\source\repos\Касса аэрофлота\Касса аэрофлота\obj\Debug\Касса_аэрофлота.Properties.Resources.resources
+C:\Users\Dima\source\repos\Касса аэрофлота\Касса аэрофлота\obj\Debug\Касса аэрофлота.csproj.GenerateResource.cache
+C:\Users\Dima\source\repos\Касса аэрофлота\Касса аэрофлота\obj\Debug\Касса аэрофлота.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\Касса аэрофлота\Касса аэрофлота\obj\Debug\Касса аэрофлота.exe
+C:\Users\Dima\source\repos\Касса аэрофлота\Касса аэрофлота\obj\Debug\Касса аэрофлота.pdb

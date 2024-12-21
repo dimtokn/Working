@@ -1,0 +1,10 @@
+C:\Users\Dima\source\repos\Встречают по одежке\Встречают по одежке\obj\Debug\Встречают по одежке.csproj.AssemblyReference.cache
+C:\Users\Dima\source\repos\Встречают по одежке\Встречают по одежке\obj\Debug\Встречают_по_одежке.Properties.Resources.resources
+C:\Users\Dima\source\repos\Встречают по одежке\Встречают по одежке\obj\Debug\Встречают по одежке.csproj.GenerateResource.cache
+C:\Users\Dima\source\repos\Встречают по одежке\Встречают по одежке\obj\Debug\Встречают по одежке.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\Встречают по одежке\Встречают по одежке\bin\Debug\Встречают по одежке.exe.config
+C:\Users\Dima\source\repos\Встречают по одежке\Встречают по одежке\bin\Debug\Встречают по одежке.exe
+C:\Users\Dima\source\repos\Встречают по одежке\Встречают по одежке\bin\Debug\Встречают по одежке.pdb
+C:\Users\Dima\source\repos\Встречают по одежке\Встречают по одежке\obj\Debug\Встречают по одежке.exe
+C:\Users\Dima\source\repos\Встречают по одежке\Встречают по одежке\obj\Debug\Встречают по одежке.pdb
+C:\Users\Dima\source\repos\Встречают по одежке\Встречают по одежке\obj\Debug\Встречают_по_одежке.Form1.resources

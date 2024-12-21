@@ -1,0 +1,10 @@
+C:\Users\Dima\source\repos\Математико1\Математико1\obj\Debug\Математико1.csproj.AssemblyReference.cache
+C:\Users\Dima\source\repos\Математико1\Математико1\obj\Debug\Математико1.Properties.Resources.resources
+C:\Users\Dima\source\repos\Математико1\Математико1\obj\Debug\Математико1.csproj.GenerateResource.cache
+C:\Users\Dima\source\repos\Математико1\Математико1\obj\Debug\Математико1.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\Математико1\Математико1\bin\Debug\Математико1.exe.config
+C:\Users\Dima\source\repos\Математико1\Математико1\bin\Debug\Математико1.exe
+C:\Users\Dima\source\repos\Математико1\Математико1\bin\Debug\Математико1.pdb
+C:\Users\Dima\source\repos\Математико1\Математико1\obj\Debug\MatematikoGame.Form1.resources
+C:\Users\Dima\source\repos\Математико1\Математико1\obj\Debug\Математико1.exe
+C:\Users\Dima\source\repos\Математико1\Математико1\obj\Debug\Математико1.pdb

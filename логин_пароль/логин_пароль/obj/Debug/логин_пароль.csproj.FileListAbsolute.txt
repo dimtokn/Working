@@ -1,0 +1,10 @@
+C:\Users\Dima\source\repos\логин_пароль\логин_пароль\obj\Debug\логин_пароль.csproj.AssemblyReference.cache
+C:\Users\Dima\source\repos\логин_пароль\логин_пароль\obj\Debug\логин_пароль.Properties.Resources.resources
+C:\Users\Dima\source\repos\логин_пароль\логин_пароль\obj\Debug\логин_пароль.csproj.GenerateResource.cache
+C:\Users\Dima\source\repos\логин_пароль\логин_пароль\obj\Debug\логин_пароль.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\логин_пароль\логин_пароль\obj\Debug\CourierRegistration.Form1.resources
+C:\Users\Dima\source\repos\логин_пароль\логин_пароль\bin\Debug\логин_пароль.exe.config
+C:\Users\Dima\source\repos\логин_пароль\логин_пароль\bin\Debug\логин_пароль.exe
+C:\Users\Dima\source\repos\логин_пароль\логин_пароль\bin\Debug\логин_пароль.pdb
+C:\Users\Dima\source\repos\логин_пароль\логин_пароль\obj\Debug\логин_пароль.exe
+C:\Users\Dima\source\repos\логин_пароль\логин_пароль\obj\Debug\логин_пароль.pdb
